@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-
-foo=42
-echo "$FOO"
